@@ -25,7 +25,7 @@ Program ini menerapkan konsep Object Oriented Programming (OOP), yaitu **Inherit
 
 ---
 
-## 📌 Deskripsi Studi Kasus
+## Deskripsi Studi Kasus
 
 Tema yang dipilih adalah Sistem Manajemen Parkir Kendaraan. Program ini digunakan untuk menerima data dan menghitung biaya parkir berdasarkan jenis kendaraan dan lama waktu parkir. Pengguna dapat memilih dua jenis kendaraan, yaitu Mobil atau Motor. Setelah memilih jenis kendaraan, pengguna memasukkan:
 
@@ -50,7 +50,7 @@ Setelah hasil perhitungan ditampilkan, pengguna dapat memilih untuk menghitung p
 
 ---
 
-## 📁 Struktur Project
+## Struktur Project
 
 ```text
 SistemParkir
@@ -72,7 +72,7 @@ SistemParkir
 
 ---
 
-## 🏗️ Hierarki Class
+## Hierarki Class
 
 Program terdiri dari empat class utama:
 
@@ -116,7 +116,7 @@ Setelah hasil perhitungan ditampilkan, program memberikan pilihan untuk menghitu
 
 ---
 
-## 🔗 Penerapan Inheritance
+## Penerapan Inheritance
 
 Konsep **inheritance** diterapkan dengan menjadikan class `Kendaraan` sebagai superclass, sedangkan class `Mobil` dan `Motor` sebagai subclass.
 
@@ -144,7 +144,7 @@ super(nomorPlat, jamMasuk, menitMasuk, jamKeluar, menitKeluar);
 
 ---
 
-## 🔄 Penerapan Polymorphism
+## Penerapan Polymorphism
 
 Konsep **polymorphism** diterapkan menggunakan **Method Overriding** pada method `hitungBiaya()`.
 
@@ -194,7 +194,7 @@ Method `hitungBiaya()` memiliki nama yang sama, tetapi hasil perhitungannya berb
 
 ---
 
-## 🔀 Penerapan Condition (If-Else)
+## Penerapan Condition (If-Else)
 
 Konsep **condition** digunakan untuk menentukan proses berdasarkan pilihan pengguna.
 
@@ -237,7 +237,7 @@ Jika durasi parkir memiliki sisa menit, jumlah jam akan ditambah satu sehingga b
 
 ---
 
-## 🔁 Penerapan Looping
+## Penerapan Looping
 
 Konsep **looping** diterapkan menggunakan perulangan `do-while` pada class `SistemParkir`.
 
@@ -318,12 +318,12 @@ Program menampilkan hasil perhitungan berupa jenis kendaraan, nomor plat, waktu 
 
 ---
 
-### 🔁 Running Looping Program
+### Running Looping Program
 
 <p align="center">
   <img 
-    src="URL_GAMBAR_KAMU"
-    width="350"
+    src="https://github.com/user-attachments/assets/a223a683-a28b-43a6-b3c3-482b92a70d6f"
+    width="300"
     alt="Tampilan Looping Program">
 </p>
 
