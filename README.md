@@ -76,7 +76,7 @@ SistemParkir
 
 Program terdiri dari empat class utama:
 
-<img width="1133" height="1388" alt="image" src="https://github.com/user-attachments/assets/8993a448-3cfa-446e-9558-bd0280f5eb17" />
+<img width="1627" height="967" alt="image" src="https://github.com/user-attachments/assets/2cd65b60-8598-44bf-b15c-d485ddf2f0fd" />
 
 ### Penjelasan Class
 
@@ -106,7 +106,7 @@ Class `SistemParkir` merupakan main class yang digunakan untuk menjalankan progr
 
 ## ⚙️ Alur Program
 
-<img width="1627" height="967" alt="image" src="https://github.com/user-attachments/assets/2cd65b60-8598-44bf-b15c-d485ddf2f0fd" />
+<img width="1133" height="1388" alt="image" src="https://github.com/user-attachments/assets/8993a448-3cfa-446e-9558-bd0280f5eb17" />
 
 Jika pengguna memilih **1**, program akan membuat objek dari class `Mobil`.
 
